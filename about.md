@@ -4,4 +4,14 @@ title: 关于
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+# Key words
+- 电子科技大学
+- 中国科学院大学
+- 前端工程师
+
+# 喜欢
+- Iris
+- Trance/Future Bass/Tropical House/其他的House
+- Daft Punk
+- 电影
+- 吃
